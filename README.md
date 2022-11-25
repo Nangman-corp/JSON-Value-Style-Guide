@@ -5,9 +5,9 @@
 
 </aside>
 
----
-## 목차
 
+## 목차
+---
 ### [1. 소개(Intro)](https://github.com/Nangman-corp/JSON-Value-Style-Guide/blob/main/README.md#1-%EC%86%8C%EA%B0%9Cintro-1)
 ### [2. 특수기호 정의(Define of special character)](https://github.com/Nangman-corp/JSON-Value-Style-Guide/blob/main/README.md#2-%ED%8A%B9%EC%88%98%EA%B8%B0%ED%98%B8-%EC%A0%95%EC%9D%98define-of-special-character-1)
 ### [3. 수치형 데이터(numerical data)](https://github.com/Nangman-corp/JSON-Value-Style-Guide/blob/main/README.md#3-%EC%88%98%EC%B9%98%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0numerical-data-1)
