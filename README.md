@@ -93,3 +93,7 @@ ISO 8601 표준에서 UTC 기준시 표기는 한국을 기준으로 하며 생�
 ### Server ↔ Client
 
 - 사용하는 언어의 날짜 형식을 사용하되, 날짜 형식이 지원하지 않는 경우 String 값으로 주고 받습니다.
+
+### Contributors
+---
+- [Contributors](https://github.com/Nangman-corp/JSON-Value-Style-Guide/graphs/contributors)
